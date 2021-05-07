@@ -1,0 +1,77 @@
+h1{
+	padding:2px;
+	text-align: left;
+	font-size: 20px;}
+
+h1{
+	color:AntiqueWhite;}
+
+h2{
+	padding:2px;
+	text-align: center;
+	font-size: 60px;}
+
+h2{
+	color:AntiqueWhite;
+	font-family:Impact;}
+
+h3{
+	text-align: center;
+	font-size: 25px;}
+
+h3{
+	color:AntiqueWhite;}
+
+body{
+	background-color: PowderBlue;}
+
+table{
+	width :70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#romance{
+	color:Pink;
+	font-family: Snell Roundhand;
+	padding:30px;
+	text-align: center;
+	font-size: 45px;}
+
+#horror{ 	
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size:45px;}
+#action{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 45px;}
+
+#comedyImg{
+	width:400px;
+	height: 350px;
+	margin: 15px;
+}
+
+#romanceImg{
+	width:400px;
+	height: 350px;
+	margin: 15px;
+}
+
+#horrorImg{
+	width:400px;
+	height: 350px;
+	margin: 15px;
+
+}#actionImg{
+	width:400px;
+	height: 350px;
+	margin: 15px;
+}
+
+	

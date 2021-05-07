@@ -1,0 +1,109 @@
+h1{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 45px;
+}
+
+body{
+	background-color: powderBlue;
+}
+
+table{
+	width :70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#movie
+{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#rating{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#bridesmaids{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#vacation{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#dumbanddumber{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#jumanji2{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#bridesmaidsImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#description{
+	color: Yellow;
+	font-family: Courier New;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#characters{
+	color: Yellow;
+	font-family: Courier New;
+	padding:20px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#charactertitle{
+	color: Yellow;
+	font-family: Courier New;
+	padding:10px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#vacationImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+
+
+
