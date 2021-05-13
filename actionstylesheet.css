@@ -1,0 +1,119 @@
+h1{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 45px;}
+}
+
+body{
+	background-color: powderBlue;
+}
+
+table{
+	width :70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#movie
+{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#rating{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#captainamericacivilwar{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#wonderwoman{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#thehungergames{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#starwars{
+	color:Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#description{
+	color: Orange;
+	font-family: Impact;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#characters{
+	color: Orange;
+	font-family: Impact;
+	padding:20px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#charactertitle{
+	color: Orange;
+	font-family: Impact;
+	padding:10px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#captainamericacivilwarImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#wonderwomanImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#thehungergamesImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#starwarsImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}

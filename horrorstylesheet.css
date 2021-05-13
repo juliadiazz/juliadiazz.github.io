@@ -1,0 +1,119 @@
+h1{
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 45px;}
+}
+
+body{
+	background-color: powderBlue;
+}
+
+table{
+	width :70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#movie
+{
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#rating{
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#jennifersbody{
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#aquietplace{
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#hush{
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#it{
+	color:Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#description{
+	color: Red;
+	font-family: American Typewriter;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#characters{
+	color: Red;
+	font-family: American Typewriter;
+	padding:20px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#charactertitle{
+	color: Red;
+	font-family: American Typewriter;
+	padding:10px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#jennifersbodyImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#aquietplaceImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#hushImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#itImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}

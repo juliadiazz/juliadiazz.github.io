@@ -61,4 +61,61 @@ table{
 	font-family: Snell Roundhand;
 	padding:30px;
 	text-align: center;
-	font-size: 1ßSS5px;
+	font-size: 15px;}
+
+#description{
+	color: pink;
+	font-family: Snell Roundhand;
+	padding:30px;
+	text-align: center;
+	font-size: 15px;}
+
+#characters{
+	color: Pink;
+	font-family: Snell Roundhand;
+	padding:20px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#charactertitle{
+	color: Pink;
+	font-family: Snell Roundhand;
+	padding:10px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#tenthingsihateaboutyouImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#thenotebookImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#cantbuymeloveImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+#mygirlImg{
+	height: 400px;
+	width :300px;
+	margin-left: 39%;
+	margin-right: 39%;
+	margin-bottom: 15px
+}
+
+
